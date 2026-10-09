@@ -1,10 +1,11 @@
 {
   "name": "apt-marketplace-test",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "TEST BUILD, not for customers. AI Power Tools skills only, no MCP server. Marketplace sync test 2026-10-09.",
   "author": {
     "name": "NovoCircle"
   },
   "homepage": "https://github.com/NovoCircle/ai-power-tools-skills",
-  "license": "MIT"
+  "license": "MIT",
+  "mcpServers": "https://github.com/NovoCircle/ai-power-tools-releases/releases/download/v3.6.0/AI-Power-Tools-for-Sparx-EA.mcpb"
 }
