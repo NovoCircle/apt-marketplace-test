@@ -1,0 +1,20 @@
+{
+  "name": "apt-test-market",
+  "owner": {
+    "name": "NovoCircle"
+  },
+  "description": "TEST marketplace for AI Power Tools plugin-sync checks (2026-10-09). Not for customers.",
+  "plugins": [
+    {
+      "name": "apt-marketplace-test",
+      "description": "TEST BUILD: AI Power Tools skills only, no MCP server.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/NovoCircle/apt-marketplace-test.git",
+        "path": "plugins/apt-marketplace-test",
+        "ref": "main",
+        "sha": "c9a04d3f0638057f01280a4d8efbd621a8e0f5b7"
+      }
+    }
+  ]
+}
