@@ -7,13 +7,13 @@
   "plugins": [
     {
       "name": "apt-marketplace-test",
-      "description": "TEST BUILD: AI Power Tools skills plus the MCP server bundled inside.",
+      "description": "TEST BUILD: AI Power Tools skills only, no MCP server.",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/NovoCircle/apt-marketplace-test.git",
         "path": "plugins/apt-marketplace-test",
         "ref": "main",
-        "sha": "80381fdf0944eaf73d0974d661551d1c4bf96968"
+        "sha": "7b6e45479d4b7c4c7f8f2392d22c8bc6f4a1ddee"
       }
     }
   ]
